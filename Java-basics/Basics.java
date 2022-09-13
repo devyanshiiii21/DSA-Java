@@ -6,6 +6,4 @@ public class Basics{
             String name = sc.nextLine();
             System.out.println("My name is " +name);
     }
-
-    
 }
